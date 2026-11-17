@@ -1,0 +1,7 @@
+# Maven build output
+target/
+
+# IDE
+.idea/
+*.iml
+nb-configuration.xml
